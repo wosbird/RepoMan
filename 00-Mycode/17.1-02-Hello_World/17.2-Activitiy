@@ -1,0 +1,32 @@
+
+<h1>Class Activity 2</h1>
+<p><strong>Kat!</strong></p>
+<p><b>Copper mug</b> chambray pop-up dreamcatcher celiac before they sold out biodiesel, literally palo santo +1 activated charcoal drinking vinegar chillwave wayfarers. Kombucha deep v truffaut stumptown butcher post-ironic before they sold out venmo four dollar toast yuccie. Sustainable tilde knausgaard, bitters viral synth kogi pour-over humblebrag. Next level fashion axe yuccie salvia plaid. Air plant palo santo blue bottle, cray snackwave banh mi pour-over.</p>
+  
+<h3 align=center>subheader</h3></>
+ Marfa farm-to-table live-edge pork belly, helvetica taxidermy wayfarers yr post-ironic salvia asymmetrical <i>direct trade.</i> <blockquote>Cardigan hashtag offal synth vaporware. Master cleanse everyday carry 3 wolf moon art party tofu activated charcoal polaroid tattooed gochujang aesthetic flannel try-hard. Fashion axe chicharrones vinyl, pinterest affogato mlkshk gentrify cold-pressed normcore 8-bit taxidermy tattooed bushwick af deep v. Raclette vaporware man braid kickstarter, marfa kombucha cray drinking vinegar vape blue bottle tweet PBR&B.</blockquote>
+<br></br>
+<p align=center><img src="https://img.buzzfeed.com/buzzfeed-static/static/2014-03/enhanced/webdr04/13/15/original-3651-1394738902-20.jpg?downsize=600:*&output-format=auto&output-quality=auto"></img></p>
+<br></br>
+<form>
+  <label for="greet">Yo</label><br>
+  <input type="text" id="greet" name="greet" value="Hey!"><br></br>
+  <label for="ask">What's up?</label><br>
+  <input type="text" id="ask" name="ask">
+</form>
+<br></br>
+<br></br>
+
+
+<table style="width:50%" border=1>
+  <tr align=left>
+    <th>Name</th>
+    <th>Age</th>
+    <th>Cats?</th>
+  </tr>
+  <tr>
+    <td>Kat</td>
+    <td>32</td>
+    <td>Yes!</td>
+  </tr>
+</table>

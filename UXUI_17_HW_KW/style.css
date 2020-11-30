@@ -1,0 +1,15 @@
+.header {background-color: #000000; color: #ffffff; font-family: Hill House; font-size: 160px; text-align: center; }
+
+.nav {background-color: #000000; color: #ffffff; font-family: Hill House; font-size: 44px;}
+.nav li {display: inline; padding: 40px; }
+
+.about { 
+  margin: auto;
+  width: 50%;
+  border: 2px solid white;
+  padding: 10px;
+  float: right;
+  font-family: futura PT; 
+  font-weight: book;
+  font-size: 18px;
+}
